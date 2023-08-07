@@ -1,0 +1,10 @@
+.articles .stars {
+    width: 25px;
+    height: 10px;
+    background-color: none;
+    border: none;
+}
+
+.favour:hover {
+    color: #c30000;
+}

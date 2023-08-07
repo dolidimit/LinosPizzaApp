@@ -1,0 +1,92 @@
+.sec5navl ul {
+    background-color: #ffffff;
+    box-shadow: 2px 7px 19px 3px rgba(140, 140, 140, 0.64);
+    width:1050px;
+    height: 105px;
+    border-radius: 50px;
+    margin-left: 601px;
+    gap: 5px;
+    margin-bottom: 100px;
+    margin-top: -100px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.sec5navl .fa-book-bookmark:hover {
+    color: #fc9236;
+}
+
+.sec5navl .fa-pizza-slice:hover {
+    color: #e73803;
+}
+
+.sec5navl .fa-leaf:hover {
+    color: #13cd02;
+}
+
+.sec5navl .fa-cookie:hover {
+    color: #4d2100;
+}
+
+.sec5navl .fa-shopping-cart:hover {
+    color: #fc9236;
+}
+
+.sec5navl .fa-plus:hover {
+    color: #fc9236;
+}
+
+.sec5navl .fa-user:hover {
+    color: #fc9236;
+}
+
+.sec5navl .fa-arrow-up:hover {
+    color: #fc9236;
+}
+
+.fa-shopping-cart {
+    margin-top: 2px;
+}
+
+.sec5navl ul li{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 46px;
+    margin-top: 14px;
+    color: #7e4a01;
+    cursor: default;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.sec5navl i {
+    color: black;
+    font-size: 40px;
+}
+
+.sec5val ul li  i {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.sec5navl ul li i:hover {
+  -moz-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+
+@media screen and (max-width: 1280px ){ 
+    .sec5navl ul {
+        display: none;
+        visibility: hidden;
+    }
+}

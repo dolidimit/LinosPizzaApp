@@ -1,0 +1,18 @@
+.savech  {
+    background-color:#000000 !important;
+    color: white;
+}
+
+.close {
+    background-color: #000000;
+    color: white;
+}
+
+.savech:hover {
+    background-color: #000000;
+}
+
+.close:hover {
+    background-color: #000;
+}
+

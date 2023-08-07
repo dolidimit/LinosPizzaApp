@@ -1,0 +1,45 @@
+
+.vegnv {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 160px;
+    height: 450px;
+    border-radius: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #000;
+    margin-left: -2130px;
+    margin-top: 0px;
+    gap: 26px;
+    position: fixed;
+    background-color: #ffffffb8;
+    padding: 20px;
+    box-shadow: 2px 7px 19px 3px rgba(140, 140, 140, 0.319);
+}
+
+
+.favour:hover {
+    color: #c30000;
+}
+
+
+.stars {
+    width: 95px;
+    height: 60px;
+    background-color: none;
+    border: none;
+}
+
+.vegnv a {
+    text-decoration: none;
+    color: #000;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.vegnv a:hover {
+    background-color: #000;
+    color: #fff;
+    border-radius: 22px;
+}
