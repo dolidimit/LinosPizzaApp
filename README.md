@@ -9,6 +9,7 @@ Then open "New Terminal" and write "cd client" press enter and after that write 
 Then the application should open and the server should be listening to the given commands.
 
 
+
 Guest users can:
 
 •	Register an account
@@ -25,7 +26,7 @@ Guest users can:
 
 •	View the Appetizers Page
 
-•	View the details page of the recipe
+•	View the details page of the item
 
 •	Filter the food,based on their preference(Vegan,Non Vegan,Vegetarian)
 
