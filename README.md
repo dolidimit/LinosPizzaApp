@@ -1,6 +1,6 @@
 Lino's Pizza SPA Application
 
-Lino's Pizza React Application
+Lino's Pizza SPA React Application
 
 To start the application, click on the folder "server" and click on "Open Integrated Terminal",
 in the terminal write "node ./server.js" and press enter,
