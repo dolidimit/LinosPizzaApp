@@ -3,10 +3,9 @@ Lino's Pizza SPA Application
 Lino's Pizza SPA React Application
 
 To start the application, click on the folder "server" and click on "Open Integrated Terminal",
-in the terminal write "node ./server.js" and press enter,
-after that write "npm start" and the server will be activated.
+in the terminal write "node ./server.js" and press enter, then the server will be activated.
 Then open "New Terminal" and write "cd client" press enter and after that write "npm start".
-Then the application should open and the server should be listening to the given commands.
+Then the application should be open and the server should be listening to the given commands.
 
 
 
