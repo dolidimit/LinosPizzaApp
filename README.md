@@ -42,7 +42,7 @@ Signed Up/Logged in users can:
 
 •	View the details page of the item(only in the web version)
 
-•	Visit their profile page and check their order
+•	Visit their profile page and check their order(only in the web version)
 
 •	Use the mini navbar(only in the web version)
 
