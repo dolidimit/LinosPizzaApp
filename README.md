@@ -40,7 +40,7 @@ Signed Up/Logged in users can:
 
 •	Add their own pizza recipe to the cart(only in the web version)
 
-•	View the details page of the item
+•	View the details page of the item(only in the web version)
 
 •	Visit their profile page and check their order
 
