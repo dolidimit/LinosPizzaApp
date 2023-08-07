@@ -25,7 +25,7 @@ Guest users can:
 
 •	View the Appetizers Page
 
-•	View the details page of the item
+•	View the details page of the item(only in the web version)
 
 •	Filter the food,based on their preference(Vegan,Non Vegan,Vegetarian)
 
