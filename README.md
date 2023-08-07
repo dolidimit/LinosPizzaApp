@@ -8,7 +8,6 @@ after that write "npm start" and the server will be activated.
 Then open "New Terminal" and write "cd client" press enter and after that write "npm start".
 Then the application should open and the server should be listening to the given commands.
 
-Lino's Pizza App (SPA)
 
 Guest users can:
 
